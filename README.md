@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Brandon👋
+I’m currently studying computer science at CSULB
 <!--
 **BrandonM632/BrandonM632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
